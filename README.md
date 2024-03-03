@@ -1,8 +1,6 @@
-[![MasterHead](https://www.shutterstock.com/image-illustration/blue-navy-futuristic-technology-linkedin-260nw-2358315049.jpg)]
-<h1 align="center">Hi 👋, I'm ASWIN BS</h1>
-<h3 align="center">Empowering Innovation Through AI: Unleashing Data's Potential</h3>
-(img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-820943,resizemode-75,msid-80218989/prime/technology-and-startups/five-ways-to-make-ai-a-greater-force-for-good-despite-big-techs-excessive-control-over-its-future.jpg")
 
+<h1 align="center">Hi 👋, I'm ASWIN BS</h1>
+<h3 align="center">Embarking on an Open-Source Odyssey: AI Engineer and Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswin-bs&label=Profile%20views&color=0e75b6&style=flat" alt="aswin-bs" /> </p>
 
@@ -28,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswin-bs&show_icons=true&locale=en&layout=compact" alt="aswin-bs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswin-bs&show_icons=true&locale=en" alt="aswin-bs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswin-bs&" alt="aswin-bs" /></p>
