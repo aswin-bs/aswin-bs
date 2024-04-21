@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DATA SCIENCE AND AI**
 
-- 💬 Ask me about **GENERATIVE AI ,AI FOR AUTOMIBILE**
+- 💬 Ask me about **GENERATIVE AI ,DATA SCIENCE**
 
 - 📫 How to reach me **aswinbs1452@gmail.com**
 
