@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm ASWIN BS</h1>
-<h3 align="center">Embarking on an Open-Source Odyssey: AI Engineer and Data Scientist</h3>
+<h3 align="center">Embarking on an Open-Source Odyssey: AI Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswin-bs&label=Profile%20views&color=0e75b6&style=flat" alt="aswin-bs" /> </p>
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DATA SCIENCE AND AI**
+- 🌱 I’m currently learning **AI **
 
-- 💬 Ask me about **GENERATIVE AI ,DATA SCIENCE**
+- 💬 Ask me about **GENERATIVE AI , NLP**
 
 - 📫 How to reach me **aswinbs1452@gmail.com**
 
