@@ -1,8 +1,27 @@
+# Aswin B S - AI Engineer
 
-<h1 align="center">Hi 👋, I'm ASWIN BS</h1>
-<h3 align="center">Embarking on an Open-Source Odyssey: AI Engineer </h3>
+## Profile Summary
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aswin-bs&label=Profile%20views&color=0e75b6&style=flat" alt="aswin-bs" /> </p>
+As a dedicated AI engineer, I am committed to leveraging advanced technologies to solve complex problems and drive innovation. My expertise spans machine learning, natural language processing, and computer vision, with a particular focus on developing impactful AI models that deliver actionable insights and enhance decision-making processes. I am passionate about continuous learning and staying abreast of the latest advancements in AI to make meaningful contributions to the field and drive positive change through technology.
+
+
+
+## Skills
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Python Programming
+- Data Analysis
+- Model Deployment
+
+## Objective
+
+My goal is to continue pushing the boundaries of AI, contributing to groundbreaking projects and research, particularly in the fields of natural language processing and computer vision. By staying at the forefront of technological advancements, I aim to develop solutions that have a lasting, positive impact on society.
+
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswin-bs" alt="aswin-bs" /></a> </p>
 
